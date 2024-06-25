@@ -23,19 +23,21 @@ I'm a Junior Data Analyst with a passion for exploring and analyzing data to unc
 I'm always open to new opportunities and connections to keep learning and growing. Feel free to reach out!
 
 ## Featured Projects
-#### *All my projects are in spanish at the moment*
 
-### [LeBron James Dataset](https://www.kaggle.com/datasets/eduvadillo/lebron-james-career-shots)
+### [LeBron James Dataset](https://www.kaggle.com/datasets/eduvadillo/lebron-james-career-shots) *(english)*
 Dataset with the information of all the regular season shots of LeBron James' entire career from the NBA API with Python.
 
-### [Video Games Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiNDAwY2ViMDAtNDY2Mi00YmYwLWE2OTgtOWY5NmIzNTNlMTJjIiwidCI6ImFhODQyZjU4LTgwZGUtNGFlNC04YjMxLWNlZmE4N2MwODkyNCIsImMiOjl9)
+### [Video Games Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiNDAwY2ViMDAtNDY2Mi00YmYwLWE2OTgtOWY5NmIzNTNlMTJjIiwidCI6ImFhODQyZjU4LTgwZGUtNGFlNC04YjMxLWNlZmE4N2MwODkyNCIsImMiOjl9) *(english)*
 Power BI dashboard with an analysis from sales in the videogames history with a Kaggle dataset. Data transformed with Power Query. 
 
-### [Web Scrap](https://github.com/vadillo86/Web-Scrap)
+### [Web Scrap](https://github.com/vadillo86/Web-Scrap) *(spanish)*
 Information about the board games from the page https://boardgamegeek.com/ with the Python scrapy library. 
 
-### [Linear Regression](https://github.com/vadillo86/Linear-regression?tab=readme-ov-file)
+### [Linear Regression](https://github.com/vadillo86/Linear-regression?tab=readme-ov-file) *(spanish)*
 Exploratory analysis prior to a linear regression in R.
+
+### [Global Temperature Analysis (june 2024)](https://www.kaggle.com/code/eduvadillo/global-temperature-analysis-june-2024) *(english)*
+Analysis to know the global media temperature and the average temperature by country today
 
 ---
 
