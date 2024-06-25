@@ -14,9 +14,9 @@ I'm a Junior Data Analyst with a passion for exploring and analyzing data to unc
 - **Positive Attitude**: Always ready to learn and share knowledge with others.
 
 ## Contact
-- [**Email**:](eduvadillo.garcia@gmail.com)
-- [**LinkedIn**:](https://www.linkedin.com/in/eduvadillogarcia)
-- [**Kaggle**:](https://www.kaggle.com/eduvadillo)
+- [**Email**](eduvadillo.garcia@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/eduvadillogarcia)
+- [**Kaggle**](https://www.kaggle.com/eduvadillo)
 - [**Tableau Public**](https://public.tableau.com/app/profile/edu.vadillo/vizzes)
 
 ## Want to Know More?
