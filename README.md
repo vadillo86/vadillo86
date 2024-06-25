@@ -23,7 +23,7 @@ I'm a Junior Data Analyst with a passion for exploring and analyzing data to unc
 I'm always open to new opportunities and connections to keep learning and growing. Feel free to reach out!
 
 ## Featured Projects
-#### All my projects are in spanish at the moment.
+#### *All my projects are in spanish at the moment*
 
 ### [LeBron James Dataset](https://www.kaggle.com/datasets/eduvadillo/lebron-james-career-shots)
 Dataset with the information of all the regular season shots of LeBron James' entire career from the NBA API with Python.
@@ -34,8 +34,13 @@ Power BI dashboard with an analysis from sales in the videogames history with a 
 ### [Web Scrap](https://github.com/vadillo86/Web-Scrap)
 Information about the board games from the page https://boardgamegeek.com/ with the Python scrapy library. 
 
-### [Linear Regression]([https://github.com/vadillo86/Web-Scrap](https://github.com/vadillo86/Linear-regression?tab=readme-ov-file))
-Exploratory analysis prior to a linear regression.
+### [Linear Regression](https://github.com/vadillo86/Linear-regression?tab=readme-ov-file)
+Exploratory analysis prior to a linear regression in R.
+
+---
+
+These are some of the personal projects I have completed.
+I always keep learning so I keep uploading more projects with different data analysis, data science and business intelligence tools.
 
 ---
 Thanks for visiting my profile!
