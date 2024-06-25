@@ -14,8 +14,7 @@ I'm a Junior Data Analyst with a passion for exploring and analyzing data to unc
 - **Positive Attitude**: Always ready to learn and share knowledge with others.
 
 ## CV
-[CV Eduardo Vadillo.pdf](https://github.com/user-attachments/files/15970120/CV.Eduardo.Vadillo.pdf)
-
+[CV Eduardo Vadillo.pdf](https://github.com/user-attachments/files/15980110/CV.Eduardo.Vadillo.pdf)
 
 ## Contact
 - [**Email**](eduvadillo.garcia@gmail.com)
