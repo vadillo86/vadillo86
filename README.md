@@ -15,7 +15,7 @@ I'm a Junior Data Analyst with a passion for exploring and analyzing data to unc
 
 ## CV
 - **ES** - [CV Eduardo Vadillo.pdf](https://github.com/user-attachments/files/15980110/CV.Eduardo.Vadillo.pdf)
-- **EN** - [CV Eduardo Vadillo-EN.pdf](https://github.com/user-attachments/files/16012113/CV.Eduardo.Vadillo-EN.pdf)
+- **EN** - [CV Eduardo Vadillo-EN.pdf](https://github.com/user-attachments/files/16027797/CV.Eduardo.Vadillo-EN.pdf)
 
   
 ## Contact
