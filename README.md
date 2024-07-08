@@ -29,6 +29,10 @@ I'm always open to new opportunities and connections to keep learning and growin
 
 ## Featured Projects
 
+### [Madrid Airbnb data analysis](https://www.linkedin.com/pulse/an%C3%A1lisis-airbnb-madrid-eduardo-vadillo-garc%C3%ADa-jxmkf/?trackingId=XyY%2FWn7cR2yOIbgNIIPzCg%3D%3D) *(spanish)*
+[Link to Power BI in elnglish](https://app.powerbi.com/view?r=eyJrIjoiNzlhMDgwZGEtMmNhYy00MTcxLWE5YzYtZjRkMDc5ODYyMmMxIiwidCI6ImFhODQyZjU4LTgwZGUtNGFlNC04YjMxLWNlZmE4N2MwODkyNCIsImMiOjl9)
+Analysis of Airbnb in Madrid (updated may 2024)
+
 ### [LeBron James Dataset](https://www.kaggle.com/datasets/eduvadillo/lebron-james-career-shots) *(english)*
 Dataset with the information of all the regular season shots of LeBron James' entire career from the NBA API with Python.
 
