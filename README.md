@@ -29,7 +29,7 @@ I'm always open to new opportunities and connections to keep learning and growin
 
 ## Featured Projects
 
-### [Madrid Airbnb data analysis](https://www.linkedin.com/pulse/an%C3%A1lisis-airbnb-madrid-eduardo-vadillo-garc%C3%ADa-jxmkf/?trackingId=XyY%2FWn7cR2yOIbgNIIPzCg%3D%3D) *(spanish)*
+### [Madrid Airbnb data analysis](https://www.linkedin.com/pulse/an%C3%A1lisis-airbnb-madrid-eduardo-vadillo-garc%C3%ADa-jxmkf/?trackingId=XyY%2FWn7cR2yOIbgNIIPzCg%3D%3D) *(english/spanish)*
 * [Link to Power BI in elnglish](https://app.powerbi.com/view?r=eyJrIjoiNzlhMDgwZGEtMmNhYy00MTcxLWE5YzYtZjRkMDc5ODYyMmMxIiwidCI6ImFhODQyZjU4LTgwZGUtNGFlNC04YjMxLWNlZmE4N2MwODkyNCIsImMiOjl9)
 * [Link to Power BI in spanish](https://app.powerbi.com/view?r=eyJrIjoiZDAxMjhjMWUtNjUwYS00NzRhLThkODctY2UxM2E5MGI2MjUyIiwidCI6ImFhODQyZjU4LTgwZGUtNGFlNC04YjMxLWNlZmE4N2MwODkyNCIsImMiOjl9)
   
