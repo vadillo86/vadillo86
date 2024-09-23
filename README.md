@@ -14,7 +14,7 @@ I'm a Junior Data Analyst with a passion for exploring and analyzing data to unc
 - **Positive Attitude**: Always ready to learn and share knowledge with others.
 
 ## CV
-- **ES** - [CV Eduardo Vadillo.pdf](https://github.com/user-attachments/files/15980110/CV.Eduardo.Vadillo.pdf)
+- **ES** - [CV Eduardo Vadillo-ES.pdf](https://github.com/user-attachments/files/17097673/CV.Eduardo.Vadillo.pdf)
 - **EN** - [CV Eduardo Vadillo-EN.pdf](https://github.com/user-attachments/files/16027797/CV.Eduardo.Vadillo-EN.pdf)
 
   
@@ -31,7 +31,8 @@ I'm always open to new opportunities and connections to keep learning and growin
 
 ### [Madrid Airbnb data analysis](https://www.linkedin.com/pulse/an%C3%A1lisis-airbnb-madrid-eduardo-vadillo-garc%C3%ADa-jxmkf/?trackingId=XyY%2FWn7cR2yOIbgNIIPzCg%3D%3D) *(english/spanish)*
 * [Link to Power BI in english](https://app.powerbi.com/view?r=eyJrIjoiNzlhMDgwZGEtMmNhYy00MTcxLWE5YzYtZjRkMDc5ODYyMmMxIiwidCI6ImFhODQyZjU4LTgwZGUtNGFlNC04YjMxLWNlZmE4N2MwODkyNCIsImMiOjl9)
-* [Link to Power BI in spanish](https://app.powerbi.com/view?r=eyJrIjoiZDAxMjhjMWUtNjUwYS00NzRhLThkODctY2UxM2E5MGI2MjUyIiwidCI6ImFhODQyZjU4LTgwZGUtNGFlNC04YjMxLWNlZmE4N2MwODkyNCIsImMiOjl9)
+* [Link to Power BI in spanish](https://github.com/user-attachments/files/17097835/CV.Eduardo.Vadillo-EN.pdf)
+
   
 Analysis of Airbnb in Madrid (updated may 2024) with SQL and Power BI.
 
