@@ -24,7 +24,6 @@ I am a Junior Data Analyst, whose main focus is the examination and interpretati
 - **EN** - [CV Eduardo Vadillo-EN.pdf](https://github.com/user-attachments/files/17505799/CV.Eduardo.Vadillo-EN.pdf)
   
 ## Contact
-- [**Gmail**](eduvadillo.garcia@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/eduvadillogarcia)
 
 ## Want to Know More?
