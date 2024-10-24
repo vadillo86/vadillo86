@@ -29,21 +29,5 @@ I am a Junior Data Analyst, whose main focus is the examination and interpretati
 ## Want to Know More?
 I'm always open to new opportunities and connections to keep learning and growing. Feel free to reach out!
 
-## Featured Projects
-
-### [Web Scrap](https://github.com/vadillo86/Web-Scrap) *(spanish)*
-Information about the board games from the page https://boardgamegeek.com/ with the Python scrapy library. 
-
-### [Linear Regression](https://github.com/vadillo86/Linear-regression?tab=readme-ov-file) *(spanish)*
-Exploratory analysis prior to a linear regression in R.
-
-### [Global Temperature Analysis (june 2024)](https://www.kaggle.com/code/eduvadillo/global-temperature-analysis-june-2024) *(english)*
-Analysis to know the global media temperature and the average temperature by country today
-
----
-
-These are some of the personal projects I have completed.
-I always keep learning so I keep uploading more projects with different data analysis, data science and business intelligence tools.
-
 ---
 Thanks for visiting my profile!
