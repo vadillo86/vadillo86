@@ -20,8 +20,8 @@ I am a Junior Data Analyst, whose main focus is the examination and interpretati
 - [**Notion portfolio**](https://perpetual-hygienic-940.notion.site/Portfolio-1265a50c39e0800191fcf562eddc7d6d)
 
 ## CV
-- **ES** - [CV Eduardo Vadillo-ES.pdf](https://github.com/user-attachments/files/17616829/CV.Eduardo.Vadillo-ES.pdf)
-- **EN** - [CV Eduardo Vadillo-EN.pdf](https://github.com/user-attachments/files/17505799/CV.Eduardo.Vadillo-EN.pdf)
+- **ES** - [CV Eduardo Vadillo_ES.pdf](https://github.com/user-attachments/files/18111221/CV.Eduardo.Vadillo_ES.pdf)
+- **EN** - Under construction
   
 ## Contact
 - [**LinkedIn**](https://www.linkedin.com/in/eduvadillogarcia)
